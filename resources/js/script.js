@@ -1,6 +1,5 @@
 $(document).ready(function() {
     
-    
     /* For the sticky navigation */
     $('.js--section-features').waypoint(function(direction) {
         if (direction == "down") {
@@ -9,18 +8,21 @@ $(document).ready(function() {
             $('nav').removeClass('sticky');
         }
     }, {
-      offset: '60px;'
-    });
+      offset: '60px'
+    })
+
     
     
     /* Scroll on buttons */
-    $('.js--scroll-to-plans').click(function () {
-       $('html, body').animate({scrollTop: $('.js--section-plans').offset().top}, 1000); 
+    $('.js--scroll-to-plans').click(function() {
+        $('html, body').animate({scrollTop: $('.js--section-plans').offset().top}, 1000);
+        $('.js--scroll-to-plans').waypoint(function(direction) {$('.js--wp-4').addClass('animated tada');});
     });
     
     $('.js--scroll-to-start').click(function () {
-       $('html, body').animate({scrollTop: $('.js--section-features').offset().top}, 1000); 
+        $('html, body').animate({scrollTop: $('.js--section-features').offset().top}, 1000); 
     });
+    
     
     
     /* Navigation scroll */
@@ -38,6 +40,7 @@ $(document).ready(function() {
         }
       });
     });
+    
     
     
     /* Animations on scroll */
@@ -60,25 +63,49 @@ $(document).ready(function() {
     });
     
     $('.js--wp-4').waypoint(function(direction) {
-        $('.js--wp-4').addClass('animated pulse');
+        $('.js--wp-4').addClass('animated shake');
     }, {
         offset: '50%'
     });
     
     
-    /* Mobile navigation */
+    
+    /* Mobile nav */
     $('.js--nav-icon').click(function() {
         var nav = $('.js--main-nav');
         var icon = $('.js--nav-icon i');
         
         nav.slideToggle(200);
-        
         if (icon.hasClass('ion-navicon-round')) {
             icon.addClass('ion-close-round');
             icon.removeClass('ion-navicon-round');
         } else {
             icon.addClass('ion-navicon-round');
             icon.removeClass('ion-close-round');
-        }        
+        }
     });
+    
+    
+    
+    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 });
