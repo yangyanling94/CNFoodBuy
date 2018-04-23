@@ -88,10 +88,20 @@ $(document).ready(function() {
     
     
     /* Mobile nav */
-    new GMaps({
+    var map = new GMaps({
       div: '.map',
-      lat: -12.043333,
-      lng: -77.028333
+      lat: 40.7295134,
+      lng: -73.9986549,
+      zoom: 12
+    });
+    
+    map.addMarker({
+      lat: 40.7295134,
+      lng: -73.9986549,
+      title: 'New York University',
+      infoWindow: {
+        content: '<p>Our NYU HQ</p>'
+      }
     });
     
     
