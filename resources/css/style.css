@@ -90,7 +90,7 @@ h3 {
 h2:after {
     display: block;
     height: 2px;
-    background-color: #e67e22;
+    background-color: #be2620;
     content: " ";
     width: 100px;
     margin: 0 auto;
@@ -108,7 +108,7 @@ h2:after {
 .icon-big {
     font-size: 350%;
     display: block;
-    color: #e67e22;
+    color: #be2620;
     margin-bottom: 10px;
 }
 
@@ -116,7 +116,7 @@ h2:after {
     display: inline-block;
     width: 30px;
     text-align: center;
-    color: #e67e22;
+    color: #be2620;
     font-size: 120%;
     margin-right: 10px;
     
@@ -129,10 +129,10 @@ h2:after {
 /* ----- LINKS ----- */
 a:link,
 a:visited {
-    color: #e67e22;
+    color: #be2620;
     text-decoration: none;
     padding-bottom: 1px;
-    border-bottom: 1px solid #e67e22;
+    border-bottom: 1px solid #be2620;
     -webkit-transition: border-bottom 0.2s, color 0.2s;
     transition: border-bottom 0.2s, color 0.2s;
 }
@@ -161,32 +161,32 @@ input[type=submit] {
 .btn-full:link,
 .btn-full:visited,
 input[type=submit] {
-    background-color: #e67e22;
-    border: 1px solid #e67e22;
+    background-color: #be2620;
+    border: 1px solid #be2620;
     color: white;
 }
 
 .btn-ghost:link,
 .btn-ghost:visited {
-    border: 1px solid #e67e22;
-    color: #e67e22;
+    border: 1px solid #be2620;
+    color: #be2620;
 }
 
 .btn:hover,
 .btn:active,
 input[type=submit]:hover,
 input[type=submit]:active {
-    background-color: #bf6516;
+    background-color: #841a16;
 }
 
 .btn-full:hover,
 .btn-full:active {
-    border: 1px solid #bf6516;
+    border: 1px solid #841a16;
 }
 
 .btn-ghost:hover,
 .btn-ghost:active {
-    border: 1px solid #bf6516;
+    border: 1px solid #841a16;
     color: white;
 }
 
@@ -197,8 +197,8 @@ input[type=submit]:active {
 /* --------------------------------------------------- */
 
 header {
-    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.7))), url(img/hero-min.jpg);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url(img/hero-min.jpg);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.2)), to(rgba(0, 0, 0, 0.4))), url(img/hero-min.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.4)), url(img/hero-min.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -254,7 +254,7 @@ header {
 
 .main-nav li a:hover,
 .main-nav li a:active {
-    border-bottom: 2px solid #e67e22;
+    border-bottom: 2px solid #be2620;
 }
 
 
@@ -383,9 +383,9 @@ header {
 }
 
 .works-step div {
-    color: #e67e22;
+    color: #be2620;
     font-size: 150%;
-    border: 2px solid #e67e22;
+    border: 2px solid #be2620;
     display: inline-block;
     border-radius: 50%;
     height: 55px;
@@ -503,7 +503,7 @@ cite img {
 .plan-price {
     font-size: 300%;
     font-weight: 100;
-    color: #e67e22;
+    color: #be2620;
     margin-bottom: 10px;
 }
 
