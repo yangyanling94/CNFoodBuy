@@ -1,8 +1,8 @@
-#Project Name
+# Project Name
 
 This is a fake website named ***Chinese Food Easy Buy*** which is used to order Chinese food easily on internet.
 
-##Description
+## Description
 
 * Programming Language
 	* **HTML5** - constructed the main structure and layout of this Web
@@ -23,7 +23,7 @@ This is a fake website named ***Chinese Food Easy Buy*** which is used to order 
 
 
 ## Sections
-###Home Page
+### Home Page
 -----------
 Home page of Chinese Food Easy Buy, which has sticky main navigation bar and responsive buttons.
 
@@ -38,12 +38,12 @@ Home page of Chinese Food Easy Buy, which has sticky main navigation bar and res
 ![](readmeDemo/gif/reponsive_btns.gif)
 
 
-###Product Features
+### Product Features
 -----------
 Brief description of the delivery service of Chinese Food Easy Buy.</br>
 ![](readmeDemo/pic/section-features.jpg)
 
-###Chinese Food Showcase
+### Chinese Food Showcase
 -----------
 Displacement of several Chinese Food.
 
@@ -52,7 +52,7 @@ Displacement of several Chinese Food.
 
 
 
-###Work Steps
+### Work Steps
 -----------
 Simple steps to order Chinese foods using Chinese Food Easy Buy.
 
@@ -61,18 +61,18 @@ Simple steps to order Chinese foods using Chinese Food Easy Buy.
 
 
 
-###Available Cities
+### Available Cities
 -----------
 Cities available to use Chinese Food Easy Buy.</br>
 ![](readmeDemo/pic/section-cities.jpg)
 
 
-###Testimonials
+### Testimonials
 -----------
 Customer feedbacks of service.</br>
 ![](readmeDemo/pic/section-testimonials.jpg)
 
-###Product Available Plans
+### Product Available Plans
 -----------
 Available plans to choose from Chinese Food Easy Buy.
 
@@ -80,7 +80,7 @@ Available plans to choose from Chinese Food Easy Buy.
 ![](readmeDemo/gif/plans.gif)
 
 
-###Customer Form
+### Customer Form
 -----------
 Customer form used to submit informations.
 
@@ -91,13 +91,13 @@ Customer form used to submit informations.
 ![](readmeDemo/gif/map.gif)
 
 
-###Copy Right
+### Copy Right
 -----------
 Copyright and social links to Chinese Food Easy Buy.</br>
 ![](readmeDemo/pic/section-footer.jpg)
 
 ## About me
-I am Aileen Yang, and I have just finished my master degree in NYU in May 2018.</br>
+I am **Aileen Yang**, and I have just finished my **master** degree in **NYU** in May 2018.</br>
 I am now ***actively seeking for Software Development Engineer full-time position*** in ***Silicon Valley*** .</br>
 Welcome to contact my if you would like to [offer me an oppotunity](mailto:yy1910@nyu.edu)!</br>
 Please feel free to contact me if you have any question.
