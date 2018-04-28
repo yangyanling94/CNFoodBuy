@@ -23,7 +23,7 @@ This is a fake website named ***Chinese Food Easy Buy*** which is used to order 
 
 
 ## Sections
-### Home Page
+### [Home Page](#Home-Page)
 -----------
 Home page of Chinese Food Easy Buy, which has sticky main navigation bar and responsive buttons.
 
