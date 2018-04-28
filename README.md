@@ -11,15 +11,15 @@ This is a fake website named ***Chinese Food Easy Buy*** which is used to order 
 	* **PHP** - added effective response when sending forms
 
 * Page Sections
-	* [Home Page](#Home Page)
-	* [Product Features](#Product Features)
-	* [Chinese Food Showcase](#Chinese Food Showcase)
-	* [Work Steps](#Work Steps)
-	* [Available Cities](#Available Cities)
+	* [Home Page](#Home-Page)
+	* [Product Features](#Product-Features)
+	* [Chinese Food Showcase](#Chinese-Food-Showcase)
+	* [Work Steps](#Work-Steps)
+	* [Available Cities](#Available-Cities)
 	* [Testimonials](#Testimonials)
-	* [Product Available Plans](#AProduct Available Plans)
-	* [Customer Form](#Customer Form)
-	* [Copy Right](#Copy Right)
+	* [Product Available Plans](#AProduct-Available-Plans)
+	* [Customer Form](#Customer-Form)
+	* [Copy Right](#Copy-Right)
 
 
 ## Sections
