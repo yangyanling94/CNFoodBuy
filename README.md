@@ -1,8 +1,8 @@
-#				Project Name
-======================
+#Project Name
+
 This is a fake website named ***Chinese Food Easy Buy*** which is used to order Chinese food easily on internet.
 
-## Description
+##Description
 
 * Programming Language
 	* **HTML5** - constructed the main structure and layout of this Web
