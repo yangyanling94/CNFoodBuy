@@ -97,7 +97,7 @@ Copyright and social links to Chinese Food Easy Buy.</br>
 ![](readmeDemo/pic/section-footer.jpg)
 
 ## About me
-I am **Aileen Yang** living in **Silicon Valley**, and I have just finished my **master** degree in **NYU** in May 2018.</br>
+I am **Aileen Yang** living in **San Francisco Bay Area**, and I have just finished my **master** degree in **NYU** in May 2018.</br>
 I am now ***actively seeking for Software Development Engineer full-time position***.</br>
 Welcome to contact my if you would like to [offer me an oppotunity](mailto:yy1910@nyu.edu)!</br>
 Please feel free to contact me if you have any question.
