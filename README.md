@@ -1,4 +1,4 @@
-# Project Name
+# Chinese Food Easy Buy
 
 This is a fake website named ***Chinese Food Easy Buy*** which is used to order Chinese food easily on internet.
 
